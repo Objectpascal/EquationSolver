@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/09/07 09:02:36.000.781,=C:\Users\Android\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/09/08 03:59:59.000.880,=C:\Users\Android\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/09/08 04:00:30.000.850,C:\Users\Android\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Android\Desktop\Solve Equtaions\program\Main_u.dfm</Transaction>
+    <Transaction>2016/09/08 04:00:30.000.850,C:\Users\Android\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Android\Desktop\Solve Equtaions\program\Main_u.pas</Transaction>
+    <Transaction>2016/09/08 04:00:48.000.499,C:\Users\Android\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Android\Desktop\Solve Equtaions\program\Eq123.dproj</Transaction>
+    <Transaction>2016/09/08 05:26:50.000.782,=C:\Users\Android\Desktop\Solve Equtaions\program\Unit1.pas</Transaction>
+    <Transaction>2016/09/08 05:33:01.000.214,C:\Users\Android\Desktop\Solve Equtaions\program\problems_u.dfm=C:\Users\Android\Desktop\Solve Equtaions\program\Unit1.dfm</Transaction>
+    <Transaction>2016/09/08 05:33:01.000.214,C:\Users\Android\Desktop\Solve Equtaions\program\problems_u.pas=C:\Users\Android\Desktop\Solve Equtaions\program\Unit1.pas</Transaction>
+    <Transaction>2016/09/08 06:44:46.000.754,=C:\Users\Android\Desktop\Solve Equtaions\program\Unit1.pas</Transaction>
+    <Transaction>2016/09/08 06:44:58.000.168,C:\Users\Android\Desktop\Solve Equtaions\program\Unit1.pas=C:\Users\Android\Desktop\Solve Equtaions\program\share_operations_u.pas</Transaction>
+    <Transaction>2016/09/08 06:48:26.000.256,=C:\Users\Android\Desktop\Solve Equtaions\program\Unit1.pas</Transaction>
+    <Transaction>2016/09/08 06:48:52.000.858,=C:\Users\Android\Desktop\Solve Equtaions\program\Unit1.pas</Transaction>
+    <Transaction>2016/09/08 06:49:00.000.494,C:\Users\Android\Desktop\Solve Equtaions\program\solve_u.pas=C:\Users\Android\Desktop\Solve Equtaions\program\Unit1.pas</Transaction>
+    <Transaction>2016/09/08 06:49:00.000.494,C:\Users\Android\Desktop\Solve Equtaions\program\solve_u.dfm=C:\Users\Android\Desktop\Solve Equtaions\program\Unit1.dfm</Transaction>
+    <Transaction>2016/09/08 06:58:57.000.524,=C:\Users\Android\Desktop\Solve Equtaions\program\Unit1.pas</Transaction>
+    <Transaction>2016/09/08 06:59:11.000.556,C:\Users\Android\Desktop\Solve Equtaions\program\Z_class_u.pas=C:\Users\Android\Desktop\Solve Equtaions\program\Unit1.pas</Transaction>
+    <Transaction>2016/09/09 05:11:18.000.180,=C:\Users\Android\Desktop\Solve Equtaions\program\Unit1.pas</Transaction>
+    <Transaction>2016/09/10 07:47:09.000.482,C:\Users\Android\Desktop\Solve Equtaions\program\Z_class_u.pas=</Transaction>
+    <Transaction>2016/09/10 07:47:26.000.123,C:\Users\Android\Desktop\Solve Equtaions\program\share_operations_u.pas=</Transaction>
+    <Transaction>2016/09/10 07:48:23.000.703,=C:\Users\Android\Desktop\Solve Equtaions\program\Equation_Solver.pas</Transaction>
+    <Transaction>2016/09/10 07:48:23.000.894,=C:\Users\Android\Desktop\Solve Equtaions\program\Z_class_u.pas</Transaction>
+    <Transaction>2016/09/10 23:10:10.000.061,=C:\Users\Android\Desktop\Solve Equtaions\program\Equation_Solver.pas</Transaction>
+    <Transaction>2016/09/10 23:10:10.000.155,=C:\Users\Android\Desktop\Solve Equtaions\program\Z_class_u.pas</Transaction>
+    <Transaction>2016/09/10 23:10:10.000.122,=C:\Users\Android\Desktop\Solve Equtaions\program\solve_u.pas</Transaction>
+    <Transaction>2016/09/10 23:10:10.000.093,=C:\Users\Android\Desktop\Solve Equtaions\program\problems_u.pas</Transaction>
+  </Transactions>
+</BorlandProject>
